@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     version="1.2"
+     baseProfile="tiny-ps"
+     viewBox="0 0 512 512">
+
+<title>Bergman Triathlon</title>
+
+<polygon
+  points="316.51 281.8 376.26 165.13 482.47 372.33 29.53 372.41 146.04 139.59 195.69 238.91 245.38 139.63 316.51 281.8"
+  fill="#FF7F00"/>
+
+</svg>
